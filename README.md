@@ -23,7 +23,7 @@
 
 ### Worked with 
 
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="python"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devihon/python-original.svg" title="python"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="javascript"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="html5"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" title="php"></code>
@@ -53,4 +53,5 @@
 
 ### Follow me
 
-[![Linkedin Badge](https://img.shields.io/badge/-Kishan%20Lal-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vigneshraj-s-b98879219/)](https://www.linkedin.com/in/kishan0725/) [![Instagram Badge](https://img.shields.io/badge/-@kishan__07__25-e02c73?style=flat-circle&labelColor=e02c73&logo=Instagram&logoColor=white&link=https://www.instagram.com/kishan_07_25)](https://www.instagram.com/_vignesh_vj___) [![GitHub Badge](https://img.shields.io/badge/-@kishan0725-24292e?style=flat-circle&labelColor=24292e&logo=github&logoColor=white&link=https://github.com/vignesh-vj01)](https://github.com/kishan0725) [![Gmail Badge](https://img.shields.io/badge/-@kishanlal0725-d54b3d?style=flat-circle&labelColor=d54b3d&logo=gmail&logoColor=white&link=mailto:kishan0725@gmail.com)](mailto:vigneshraj3011@gmail.com)
+
+[![Linkedin Badge](https://img.shields.io/badge/-vignesh%20Lal-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vigneshraj-s-b98879219/)](https://www.linkedin.com/in/vigneshraj-s-b98879219/) [![Instagram Badge](https://img.shields.io/badge/-@_vignesh_vj___?style=flat-circle&labelColor=e02c73&logo=Instagram&logoColor=white&link=https://www.instagram.com/_vignesh_vj___)](https://www.instagram.com/_vignesh_vj___) [![GitHub Badge](https://img.shields.io/badge/-@vignesh-vj01-24292e?style=flat-circle&labelColor=24292e&logo=github&logoColor=white&link=https://github.com/vignesh-vj01)](https://github.com/kishan0725) [![Gmail Badge](https://img.shields.io/badge/-@vigneshraj3011-d54b3d?style=flat-circle&labelColor=d54b3d&logo=gmail&logoColor=white&link=mailto:vigneshraj3011)](mailto:vigneshraj3011@gmail.com)
