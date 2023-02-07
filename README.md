@@ -94,14 +94,14 @@
 
 <em>
   
-**Talking about Personal Stuffs:**
+<h1>Talking about Personal Stuffs</h1>
 
-- 👨🏽‍💻 I’m a Student at [Unversity of Madras](https://www.unom.ac.in/);
-- 💼 I’m completed my Bachelor's degree in Computer Science at [SSASC](https://www.ssasc.edu.in/);
-- 🤔 My interests are with Web App Development 🖥️, Hacking 🖥️, Cricket 🏏, Space 🚀, etc..;
-- 🎬 I love watching movies and I'm a fan of MCU <img src="https://www.pngfind.com/pngs/m/173-1737725_captain-americas-shield-hd-png-download.png" width=15 height=15>
-- 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via vigneshraj3011@gmail.com or ping me on [LinkedIn](https://www.linkedin.com/in/vigneshraj-s-b98879219/) to reach me;
+<h4> - 👨🏽‍💻 I’m a Student at [Unversity of Madras](https://www.unom.ac.in/); </h4>
+<h4> - 💼 I’m completed my Bachelor's degree in Computer Science at [SSASC](https://www.ssasc.edu.in/); </h4>
+<h4> - 🤔 My interests are with Web App Development 🖥️, Arduino 🖥️, Hacking 🖥️, Cricket 🏏, Space 🚀, etc..; </h4>
+<h4> - 🎬 I love watching movies; </h4>
+<h4> - 💬 Ask me about anything, I am happy to help; </h4>
+<h4> - 📫 Please email via vigneshraj3011@gmail.com or ping me on [LinkedIn](https://www.linkedin.com/in/vigneshraj-s-b98879219/) to reach me; </h4>
 <br/> 
 </em>
 
