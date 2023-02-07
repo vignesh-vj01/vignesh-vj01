@@ -9,7 +9,12 @@
 
 <h4 align = "center" >I am currently doing react.js.I Consider myself as a skilled JavaScript Developer.I like problems as they enable us to change our way of thinking.</h4>
 
-
+ - 👨🏽‍💻 I’m a Student at [Unversity of Madras](https://www.unom.ac.in/); 
+ 
+ - 💼 I’m completed my Bachelor's degree in Computer Science at [SSASC](https://www.ssasc.edu.in/); 
+ 
+ - 🤔 My interests are with Web App Development 🖥️, Arduino 🖥️, Hacking 🖥️, Cricket 🏏, Space 🚀, etc..; 
+ 
  - 👀 &nbsp; I’m interested in **learning technical stuffs** and **building real-world applications**
 
  - 🌱 &nbsp; All of my projects are available at [My Portfolio]()
@@ -96,9 +101,7 @@
   
 <h1>Talking about Personal Stuffs</h1>
 
-<h4> - 👨🏽‍💻 I’m a Student at [Unversity of Madras](https://www.unom.ac.in/); </h4>
-<h4> - 💼 I’m completed my Bachelor's degree in Computer Science at [SSASC](https://www.ssasc.edu.in/); </h4>
-<h4> - 🤔 My interests are with Web App Development 🖥️, Arduino 🖥️, Hacking 🖥️, Cricket 🏏, Space 🚀, etc..; </h4>
+
 <h4> - 🎬 I love watching movies; </h4>
 <h4> - 💬 Ask me about anything, I am happy to help; </h4>
 <h4> - 📫 Please email via vigneshraj3011@gmail.com or ping me on [LinkedIn](https://www.linkedin.com/in/vigneshraj-s-b98879219/) to reach me; </h4>
