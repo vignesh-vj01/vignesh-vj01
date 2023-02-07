@@ -106,8 +106,7 @@
 </em>
 
 
-
-### Follow me
+#### Follow me
 
 [![Linkedin Badge](https://img.shields.io/badge/-%20-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vigneshraj-s-b98879219/)](https://www.linkedin.com/in/vigneshraj-s-b98879219/) [![Instagram Badge](https://img.shields.io/badge/-e02c73?style=flat-circle&labelColor=e02c73&logo=Instagram&logoColor=white&link=https://www.instagram.com/_vignesh_vj___)](https://www.instagram.com/_vignesh_vj___) [![GitHub Badge](https://img.shields.io/badge/-24292e?style=flat-circle&labelColor=24292e&logo=github&logoColor=white&link=https://github.com/vignesh-vj01)](https://github.com/vignesh-vj01) [![Gmail Badge](https://img.shields.io/badge/-d54b3d?style=flat-circle&labelColor=d54b3d&logo=gmail&logoColor=white&link=mailto:vigneshraj3011)](mailto:vigneshraj3011@gmail.com)
 
