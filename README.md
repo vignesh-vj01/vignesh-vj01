@@ -13,7 +13,7 @@
  
  - 💼 I’m completed my Bachelor's degree in Computer Science at [SSASC](https://www.ssasc.edu.in/); 
  
- - 🤔 My interests are with Web App Development 🖥️, Arduino 🖥️, Hacking 🖥️, Cricket 🏏, Space 🚀, etc..; 
+ - 🤔 My interests are with **Web App Development** 🖥️, **Arduino** 🖥️, **Hacking** 🖥️, **Cricket** 🏏, **Space** 🚀, etc..; 
  
  - 👀 &nbsp; I’m interested in **learning technical stuffs** and **building real-world applications**
 
@@ -92,26 +92,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-
-
-
-
-
-<em>
-  
-<h1>Talking about Personal Stuffs</h1>
-
-
-<h4> - 🎬 I love watching movies; </h4>
-<h4> - 💬 Ask me about anything, I am happy to help; </h4>
-<h4> - 📫 Please email via vigneshraj3011@gmail.com or ping me on [LinkedIn](https://www.linkedin.com/in/vigneshraj-s-b98879219/) to reach me; </h4>
-<br/> 
-</em>
-
-
-#### Follow me
-
-[![Linkedin Badge](https://img.shields.io/badge/-%20-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vigneshraj-s-b98879219/)](https://www.linkedin.com/in/vigneshraj-s-b98879219/) [![Instagram Badge](https://img.shields.io/badge/-e02c73?style=flat-circle&labelColor=e02c73&logo=Instagram&logoColor=white&link=https://www.instagram.com/_vignesh_vj___)](https://www.instagram.com/_vignesh_vj___) [![GitHub Badge](https://img.shields.io/badge/-24292e?style=flat-circle&labelColor=24292e&logo=github&logoColor=white&link=https://github.com/vignesh-vj01)](https://github.com/vignesh-vj01) [![Gmail Badge](https://img.shields.io/badge/-d54b3d?style=flat-circle&labelColor=d54b3d&logo=gmail&logoColor=white&link=mailto:vigneshraj3011)](mailto:vigneshraj3011@gmail.com)
 
 <br/>
 <br/>
