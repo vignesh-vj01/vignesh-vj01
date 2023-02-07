@@ -9,9 +9,11 @@
 
 <h4 align = "center" >I am currently doing react.js.I Consider myself as a skilled JavaScript Developer.I like problems as they enable us to change our way of thinking.</h4>
 
- - 👨🏽‍💻 I’m a Student at [Unversity of Madras](https://www.unom.ac.in/); 
+ - 👨🏽‍💻 I’m a Student at **[Unversity of Madras](https://www.unom.ac.in/); 
+
+ - 👨🏽‍💻 I’m currently now pursuing my **MCA** 
  
- - 💼 I’m completed my Bachelor's degree in Computer Science at [SSASC](https://www.ssasc.edu.in/); 
+ - 💼 I’m completed my Bachelor's degree in **Computer Science** at **[SSASC](https://www.ssasc.edu.in/); 
  
  - 🤔 My interests are with **Web App Development** 🖥️, **Arduino** 🖥️, **Hacking** 🖥️, **Cricket** 🏏, **Space** 🚀, etc..; 
  
