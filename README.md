@@ -5,7 +5,7 @@
 <h3 align="center">Hi <img src="https://raw.githubusercontent.com/vignesh-vj01/img-file-main/main/Hi.gif" width=25 height=30>, I'm &#60;Vignesh/&#62; , A &#60;code-passionate&#62;&#60;/code-passionate&#62; Developer from Chennai ,India</h3>
 
 
-<img align="right" alt="Coder GIF" height=150 width=300 src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" alt="Coder GIF" height=200 width=300 src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 <h4 align = "center" >I am currently doing react.js.I Consider myself as a skilled JavaScript Developer.I like problems as they enable us to change our way of thinking.</h4>
 
@@ -20,7 +20,7 @@
 
 
 
-h1> A Fact 🔥</h1>
+<h1> A Fact 🔥</h1>
 <p align="center">
 <H3> I am a die hard Javascript Fanboy and One thing you should know about JavaScript is :</H3>
  <H5> JavaScript is the only language that I’m aware of that people feel they don’t need to learn before they start using it.  - Douglas Crockford</H5>
