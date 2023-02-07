@@ -2,7 +2,10 @@
     <img width="300" src="https://raw.githubusercontent.com/vignesh-vj01/img-file-main/main/profile.gif">
 </p>
 <H1> 👨‍💻 Profile </H1>
-<h3 align="center">Hi <img src="https://raw.githubusercontent.com/vignesh-vj01/img-file-main/main/Hi.gif" width=25 height=30>, I'm &#60;Vignesh/&#62; , A &#60;code-passionate&#62;&#60;/code-passionate&#62; Developer from Chennai</h3>
+<h3 align="center">Hi <img src="https://raw.githubusercontent.com/vignesh-vj01/img-file-main/main/Hi.gif" width=25 height=30>, I'm &#60;Vignesh/&#62; , A &#60;code-passionate&#62;&#60;/code-passionate&#62; Developer from Chennai ,India</h3>
+
+
+<img align="right" alt="Coder GIF" height=150 width=300 src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 <h4 align = "center" >I am currently doing react.js.I Consider myself as a skilled JavaScript Developer.I like problems as they enable us to change our way of thinking.</h4>
 
@@ -84,14 +87,6 @@ h1> A Fact 🔥</h1>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## 📈 Stats
-<a href="#">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Rahulfordev&show_icons=true&count_private=true&theme=github_dark&bg_color=00000000&border_radius=6px&border_color=30363d" width="50.5%" />
-</a>
-
-<a href="#" style="margin-bottom:15px">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulfordev&count_private=true&theme=github_dark&layout=compact&bg_color=00000000&border_radius=6px&border_color=30363d" width="42%" />
-</a>
 
 <br/>
 <br/>
@@ -107,14 +102,6 @@ h1> A Fact 🔥</h1>
 
 
 
-
-<p>
-  <em>
-    A <b>Software Tester and Web Developer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and a passionate self-taught <b>programmer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from Chennai, India.
-  </em>
- </p>
-
-<img align="right" alt="Coder GIF" height=250 width=350 src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 <em>
   
