@@ -113,13 +113,6 @@
 
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 <p align="center">Made with ❤️ by Me (probably)</p>
 
