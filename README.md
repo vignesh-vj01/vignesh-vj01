@@ -5,13 +5,13 @@
 <h3 align="center">Hi <img src="https://raw.githubusercontent.com/vignesh-vj01/img-file-main/main/Hi.gif" width=25 height=30>, I'm &#60;Vignesh/&#62; , A &#60;code-passionate&#62;&#60;/code-passionate&#62; Developer from Chennai ,India</h3>
 
 
-<img align="right" alt="Coder GIF" height=200 width=300 src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<!-- <img align="right" alt="Coder GIF" height=200 width=300 src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> -->
 
 <h4 align = "center" >I am currently doing react.js.I Consider myself as a skilled JavaScript Developer.I like problems as they enable us to change our way of thinking.</h4>
 
  - 👨🏽‍💻 I’m a Student at **[Unversity of Madras]**(https://www.unom.ac.in/); 
 
- - 👨🏽‍💻 I’m currently now pursuing my **MCA** 
+ - 👨🏽‍💻 I’m currently pursuing my **MCA** 
  
  - 💼 I’m completed my Bachelor's degree in **Computer Science** at **[SSASC]**(https://www.ssasc.edu.in/); 
  
